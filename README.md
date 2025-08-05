@@ -31,10 +31,6 @@ style.css – Styling file
 images/ – Sneaker images
 README.md – Project documentation
 
-Demo Screenshot
-![Uploading image.png…]()
-
-
 Live Demo
 You can view the live demo here after enabling GitHub Page
 file:///C:/Users/dell%205400/OneDrive/Documents/22MH1A4917(PRODUCT%20LANDING%20PAGE)/22MH1A4917/landing%20page/index.html
@@ -42,4 +38,4 @@ file:///C:/Users/dell%205400/OneDrive/Documents/22MH1A4917(PRODUCT%20LANDING%20P
 
 Contact
 Marisha Gosala
-GitHub Profile – https://github.com/marishagosala
+GitHub Profile – https://github.com/marishagosa
